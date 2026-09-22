@@ -28,5 +28,5 @@ README.md - This file
 
 ## Phase Status
 - [x] Review-1: Abstract & Introduction finalized
-- [ ] Review-2: In progress
+- [x] Review-2: In progress
 - [ ] Final: Pending
