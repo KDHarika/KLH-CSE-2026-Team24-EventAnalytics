@@ -29,4 +29,5 @@ README.md - This file
 ## Phase Status
 - [x] Review-1: Abstract & Introduction finalized
 - [x] Review-2: Objectives & System Architecture
-- [ ] Final: Pending
+- [x] Review-3: Methodology, Use of Modern Tools and Technologies, Implementation, Coding Quality and Functionality
+- [ ] Review-4: Existing and Proposed System
